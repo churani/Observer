@@ -1,0 +1,11 @@
+C:\CleanManagerProject\Projects\Observer\Observer\Observer\obj\Debug\Observer.Form1.resources
+C:\CleanManagerProject\Projects\Observer\Observer\Observer\obj\Debug\Observer.Properties.Resources.resources
+C:\CleanManagerProject\Projects\Observer\Observer\Observer\obj\Debug\Observer.csproj.GenerateResource.Cache
+C:\CleanManagerProject\Projects\Observer\Observer\Observer\bin\Debug\Observer.exe.config
+C:\CleanManagerProject\Projects\Observer\Observer\Observer\bin\Debug\Observer.exe
+C:\CleanManagerProject\Projects\Observer\Observer\Observer\bin\Debug\Observer.pdb
+C:\CleanManagerProject\Projects\Observer\Observer\Observer\obj\Debug\Observer.exe
+C:\CleanManagerProject\Projects\Observer\Observer\Observer\obj\Debug\Observer.pdb
+C:\Projects\Projects\Observer\Observer\Observer\bin\Debug\Observer.exe.config
+C:\Projects\Projects\Observer\Observer\Observer\obj\Debug\Observer.exe
+C:\Projects\Projects\Observer\Observer\Observer\obj\Debug\Observer.pdb
